@@ -1,0 +1,11 @@
+# Ignorar archivos y directorios generados por Django
+*.pyc
+__pycache__/
+.mypy_cache
+
+# Ignorar archivos y directorios
+.env
+venv
+.idea
+
+
